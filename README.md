@@ -2,7 +2,7 @@
 
 AKA YTC, currently as a postgraduate student of DHDK - UNIBO
 
-![KikaYang's GitHub stats](https://github-readme-stats.vercel.app/api?username=KikaYang&show_icons=true&theme=tokyonight)
+![KikaYang's GitHub stats](https://github-readme-stats.vercel.app/api?username=KikaYang&show_icons=true&theme=bear)
 
 ### Get in touch
 
